@@ -1,0 +1,2 @@
+# AdMob Publisher ID
+google.com, pub-2068920932871773, DIRECT, f08c47fec0942fa0
